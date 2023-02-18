@@ -1,0 +1,244 @@
+# do cla.do
+# Model Technology ModelSim SE-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 20:03:57 on Feb 17,2023
+# vlog cla.sv cla_tb.sv 
+# -- Compiling module cla
+# -- Compiling module stimulus
+# 
+# Top level modules:
+# 	stimulus
+# End time: 20:03:57 on Feb 17,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.stimulus 
+# Start time: 20:03:57 on Feb 17,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# //  ModelSim SE-64 2021.1 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.stimulus(fast)
+# Loading work.cla(fast)
+# .list
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# test           0: 
+# Program sum =  5030: a = 11010100100100, b = 01111010000001, cin = 1 , cout = 0
+# Expected: sum =  5030, cout =           1 
+# 
+# test           1: 
+# Program sum =  4465: a = 01011001100011, b = 11101100001101, cin = 1 , cout = 0
+# Expected: sum =  4465, cout =           1 
+# 
+# test           2: 
+# Program sum =  5752: a = 00010001100101, b = 01001000010010, cin = 1 , cout = 0
+# Expected: sum =  5752, cout =           0 
+# 
+# test           3: 
+# Program sum = 16004: a = 00110100001101, b = 11000101110110, cin = 1 , cout = 0
+# Expected: sum = 16004, cout =           1 
+# 
+# test           4: 
+# Program sum =  3962: a = 01011111101101, b = 11011110001100, cin = 1 , cout = 0
+# Expected: sum =  3962, cout =           1 
+# 
+# test           5: 
+# Program sum = 10635: a = 10010011000110, b = 00010011000101, cin = 0 , cout = 0
+# Expected: sum = 10635, cout =           0 
+# 
+# test           6: 
+# Program sum = 10844: a = 11011111100101, b = 11001001110111, cin = 0 , cout = 1
+# Expected: sum = 10844, cout =           1 
+# 
+# test           7: 
+# Program sum =  1409: a = 01101110001111, b = 10100111110010, cin = 0 , cout = 0
+# Expected: sum =  1409, cout =           0 
+# 
+# test           8: 
+# Program sum =  2477: a = 11101011101000, b = 00111011000101, cin = 0 , cout = 0
+# Expected: sum =  2477, cout =           0 
+# 
+# test           9: 
+# Program sum =   235: a = 10100010111101, b = 01100000101101, cin = 1 , cout = 0
+# Expected: sum =   235, cout =           1 
+# 
+# test          10: 
+# Program sum = 10605: a = 10001001100011, b = 00011100001010, cin = 0 , cout = 0
+# Expected: sum = 10605, cout =           0 
+# 
+# test          11: 
+# Program sum =  9931: a = 10000100100000, b = 00010110101010, cin = 1 , cout = 0
+# Expected: sum =  9931, cout =           1 
+# 
+# test          12: 
+# Program sum = 13994: a = 11111010010110, b = 11100000010011, cin = 1 , cout = 1
+# Expected: sum = 13994, cout =           1 
+# 
+# test          13: 
+# Program sum = 13247: a = 01011001010011, b = 01110101101011, cin = 1 , cout = 0
+# Expected: sum = 13247, cout =           0 
+# 
+# test          14: 
+# Program sum =  2225: a = 00101000000010, b = 11111010101110, cin = 1 , cout = 0
+# Expected: sum =  2225, cout =           1 
+# 
+# test          15: 
+# Program sum = 15346: a = 11001011001111, b = 00100100100011, cin = 0 , cout = 0
+# Expected: sum = 15346, cout =           0 
+# 
+# test          16: 
+# Program sum =  5894: a = 00101011001010, b = 00110000111100, cin = 0 , cout = 0
+# Expected: sum =  5894, cout =           0 
+# 
+# test          17: 
+# Program sum =  5323: a = 10000110001010, b = 11001101000001, cin = 0 , cout = 1
+# Expected: sum =  5323, cout =           1 
+# 
+# test          18: 
+# Program sum =  1538: a = 11001101111000, b = 01001010001001, cin = 1 , cout = 0
+# Expected: sum =  1538, cout =           1 
+# 
+# test          19: 
+# Program sum =  8060: a = 10010110110110, b = 11100111000110, cin = 0 , cout = 1
+# Expected: sum =  8060, cout =           1 
+# 
+# test          20: 
+# Program sum =  8167: a = 00001010111100, b = 01110100101010, cin = 1 , cout = 0
+# Expected: sum =  8167, cout =           0 
+# 
+# test          21: 
+# Program sum = 16375: a = 11111001110001, b = 00000110000101, cin = 1 , cout = 0
+# Expected: sum = 16375, cout =           1 
+# 
+# test          22: 
+# Program sum =  4981: a = 10000000111011, b = 11001100111010, cin = 0 , cout = 1
+# Expected: sum =  4981, cout =           1 
+# 
+# test          23: 
+# Program sum =  9991: a = 00101100010101, b = 01101111110001, cin = 1 , cout = 0
+# Expected: sum =  9991, cout =           0 
+# 
+# test          24: 
+# Program sum =   687: a = 00011101100010, b = 11101101001100, cin = 1 , cout = 0
+# Expected: sum =   687, cout =           1 
+# 
+# test          25: 
+# Program sum =  2952: a = 10000110001111, b = 10100111111000, cin = 1 , cout = 1
+# Expected: sum =  2952, cout =           1 
+# 
+# test          26: 
+# Program sum = 11004: a = 01011010011111, b = 01010001011100, cin = 1 , cout = 0
+# Expected: sum = 11004, cout =           0 
+# 
+# test          27: 
+# Program sum = 10706: a = 11011110001001, b = 11001001001001, cin = 0 , cout = 1
+# Expected: sum = 10706, cout =           1 
+# 
+# test          28: 
+# Program sum = 15656: a = 00000011010111, b = 11110001010001, cin = 0 , cout = 0
+# Expected: sum = 15656, cout =           0 
+# 
+# test          29: 
+# Program sum =  3534: a = 11111100001100, b = 00111011000010, cin = 0 , cout = 0
+# Expected: sum =  3534, cout =           0 
+# 
+# test          30: 
+# Program sum =  1972: a = 01101001110111, b = 10110100111101, cin = 0 , cout = 0
+# Expected: sum =  1972, cout =           0 
+# 
+# test          31: 
+# Program sum =   492: a = 00000001111110, b = 00000101101101, cin = 1 , cout = 0
+# Expected: sum =   492, cout =           0 
+# 
+# test          32: 
+# Program sum =  1523: a = 00111100011111, b = 11011011010011, cin = 1 , cout = 0
+# Expected: sum =  1523, cout =           1 
+# 
+# test          33: 
+# Program sum =  8660: a = 00100001111000, b = 01100101011011, cin = 1 , cout = 0
+# Expected: sum =  8660, cout =           0 
+# 
+# test          34: 
+# Program sum =  7529: a = 10111000111111, b = 10111100101010, cin = 0 , cout = 1
+# Expected: sum =  7529, cout =           1 
+# 
+# test          35: 
+# Program sum =  1300: a = 11100010000110, b = 00110010001110, cin = 0 , cout = 0
+# Expected: sum =  1300, cout =           0 
+# 
+# test          36: 
+# Program sum =  5665: a = 01100111111010, b = 11110000100110, cin = 1 , cout = 0
+# Expected: sum =  5665, cout =           1 
+# 
+# test          37: 
+# Program sum =  7379: a = 11010010100011, b = 10100000101111, cin = 1 , cout = 1
+# Expected: sum =  7379, cout =           1 
+# 
+# test          38: 
+# Program sum =  9124: a = 01011001011111, b = 00110101000100, cin = 1 , cout = 0
+# Expected: sum =  9124, cout =           0 
+# 
+# test          39: 
+# Program sum =  4529: a = 11011011001011, b = 01101011100110, cin = 0 , cout = 0
+# Expected: sum =  4529, cout =           0 
+# 
+# test          40: 
+# Program sum =  9238: a = 00000100101001, b = 10001011101101, cin = 0 , cout = 0
+# Expected: sum =  9238, cout =           0 
+# 
+# test          41: 
+# Program sum =  6427: a = 11011001100101, b = 10001010110101, cin = 1 , cout = 1
+# Expected: sum =  6427, cout =           1 
+# 
+# test          42: 
+# Program sum =  6333: a = 01100101111001, b = 11111101000100, cin = 0 , cout = 0
+# Expected: sum =  6333, cout =           0 
+# 
+# test          43: 
+# Program sum = 14549: a = 00101100101010, b = 10110110101011, cin = 0 , cout = 0
+# Expected: sum = 14549, cout =           0 
+# 
+# test          44: 
+# Program sum = 10871: a = 10110111011100, b = 11110010011010, cin = 1 , cout = 1
+# Expected: sum = 10871, cout =           1 
+# 
+# test          45: 
+# Program sum = 12313: a = 00001011000011, b = 10110101010110, cin = 0 , cout = 0
+# Expected: sum = 12313, cout =           0 
+# 
+# test          46: 
+# Program sum = 10865: a = 11011001100111, b = 11010000001010, cin = 0 , cout = 1
+# Expected: sum = 10865, cout =           1 
+# 
+# test          47: 
+# Program sum =  4529: a = 00101000111000, b = 00011101111001, cin = 0 , cout = 0
+# Expected: sum =  4529, cout =           0 
+# 
+# test          48: 
+# Program sum =  7463: a = 11111110010100, b = 01110110010011, cin = 0 , cout = 0
+# Expected: sum =  7463, cout =           0 
+# 
+# test          49: 
+# Program sum = 13365: a = 00101001011001, b = 10100111011011, cin = 1 , cout = 0
+# Expected: sum = 13365, cout =           1 
+# 
+# Testbench completed successfully
+# ** Note: $finish    : cla_tb.sv(54)
+#    Time: 101 ns  Iteration: 0  Instance: /stimulus
+# End time: 20:03:59 on Feb 17,2023, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0

@@ -1,0 +1,70 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/josep/OneDrive/Documents/Spring 2023/4233 computer arithmitic/Home Work/Assignment 2
+T_opt
+!s110 1676685838
+VQo1RQOMW:?m;KOIhFJh>e2
+04 8 4 work stimulus fast 0
+=1-4074e06399d0-63f0320e-8-4478
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vcla
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1676685837
+!i10b 1
+!s100 ka=8cBg=?VQ<TMZPc`a[F2
+IB@0P<?6d?^K=c8]nM90g90
+S1
+R0
+w1676684543
+8cla.sv
+Fcla.sv
+!i122 0
+L0 1 38
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1676685837.000000
+Z7 !s107 cla_tb.sv|cla.sv|
+Z8 !s90 cla.sv|cla_tb.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vstimulus
+R2
+R3
+!i10b 1
+!s100 To26zo`Mn]A>5CDaEM`o;0
+Iz[cQ9YdP;7:C]a24jaX3K0
+S1
+R0
+w1676685832
+8cla_tb.sv
+Fcla_tb.sv
+!i122 0
+L0 3 55
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
